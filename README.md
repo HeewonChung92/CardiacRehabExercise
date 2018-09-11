@@ -7,16 +7,14 @@ The system was validated with 16 healthy subjects: a CR specialist remotely moni
 
 
 Cardiac Rehabilitation Exercise Data with Matlab
-================================================
-Heewon Chung and Hooseok Lee, a member of BAMI LAB.
+==================================================
+Heewon Chung and Hooseok Lee, a member of BAMI LAB.   
 Last updated 2018.09.11 (September 11, 2018)
 
 
-- CR Exercise Experiment Protocol
-Measurements were taken using an ECG placed on the chest together with a PPG placed on the wrist during CR Exercise. 
-ECG data were recorded simultaneously using a 24-hour Holter monitor (SEER Light; GE Healthcare, Milwaukee, WI, USA). 
-PPG and motion data were recorded using a wearable device which we developed. 
-Participants were asked to perform the exercise according to the exercise protocol, we have designed. 
+CR Exercise Experiment Protocol
+==================================================
+Measurements were taken using an ECG placed on the chest together with a PPG placed on the wrist during CR Exercise. ECG data were recorded simultaneously using a 24-hour Holter monitor (SEER Light; GE Healthcare, Milwaukee, WI, USA). PPG and motion data were recorded using a wearable device which we developed. Participants were asked to perform the exercise according to the exercise protocol, we have designed. 
   1) Stay (Resting)      : 1minutes
   2) Walking             : 2minutes, treadmill (3km/h)
   3) Running             : 3minutes, treadmill (7km/h)
@@ -25,19 +23,21 @@ Participants were asked to perform the exercise according to the exercise protoc
   6) Walking             : 2minutes, treadmill (3km/h)
   7) Stay (Resting)      : 1minutes
 
-- Matlab Data
+Matlab Data
+==================================================
 This database contains wrist PPGs recorded during stay, walking, and running.
 Accelerometers and Gyroscopes are collected to remove the motion artifact from the PPGs.
 A reference chest ECG is included to allow a gold-standard comparison of heart rate during CR exercise.
 
-ECG sampling rate : 125Hz
-PPG sampling rate : 50Hz
-Acc sampling rate : 50Hz
-Gyro sampling rate : 50Hz
+ECG sampling rate : 125Hz   
+PPG sampling rate : 50Hz  
+Acc sampling rate : 50Hz  
+Gyro sampling rate : 50Hz   
 
-- Data Description
-bpmECG    : ECG heart rate
-timeECG   : ECG times
-sigPPG    : PPG signal
-sigAcc    : Accelerometer signal
-sigGyro   : Gyroscope signal
+Data Description
+==================================================
+bpmECG    : ECG heart rate  
+timeECG   : ECG times   
+sigPPG    : PPG signal  
+sigAcc    : Accelerometer signal  
+sigGyro   : Gyroscope signal  
