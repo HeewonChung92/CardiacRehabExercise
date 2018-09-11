@@ -1,4 +1,4 @@
-# CardiacRehabExercise
+# Cardiac Rehab Exercise
 The data presents an efficient self-cardiac rehabilitation(CR) exercise system. The system consists of a wearable device, a smartphone application, and a medical station. A patient performs self-CR exercise with the worn wearable device which enables the patient to do self-CR exercise by informing current exercise stage and recommending appropriate exercise intensity in real-time. 
 
 The exercise stage order consists of warm-up, main exercise, rest, and cool-down as recommended by ACSM guidelines. A patient performs the self-CR exercise with the worn wearable device on wrist. The wearable device measures instantaneous HRs during the exercise, and informs a patient an appropriate exercise intensity based on the comparison between the current HR and the Target Heartrate Zone(THZ) in real-time. 
