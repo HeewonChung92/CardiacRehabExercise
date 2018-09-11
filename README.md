@@ -6,9 +6,9 @@ The exercise stage order consists of warm-up, main exercise, rest, and cool-down
 The system was validated with 16 healthy subjects: a CR specialist remotely monitors the exercise records and prescribes the CR exercise through a medical station, which automatically ransmits the prescription to a patient's wearable device via smartphone application. 
 
 
-================================================================================================
+================================================
 Cardiac Rehabilitation Exercise Data with Matlab
-================================================================================================
+================================================
 Heewon Chung and Hooseok Lee, a member of BAMI LAB.
 Last updated 2018.09.11 (September 11, 2018)
 
