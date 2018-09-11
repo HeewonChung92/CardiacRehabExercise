@@ -8,7 +8,8 @@ The system was validated with 16 healthy subjects: a CR specialist remotely moni
 
 Cardiac Rehabilitation Exercise Data with Matlab
 ==================================================
-Heewon Chung and Hooseok Lee, a member of BAMI LAB.   
+Heewon Chung, Hooseok Lee, and Jinseok Lee (Professor) a member of BAMI LAB.   
+https://sites.google.com/site/bamilab/biosignal-lab   
 Last updated 2018.09.11 (September 11, 2018)
 
 
